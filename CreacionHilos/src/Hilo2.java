@@ -17,5 +17,6 @@ public class Hilo2 implements Runnable{
             }
         }
         System.out.println("FIN hilo "+miHilo.getName());
+        /*EDITADO POR MANUELALEJANDROMARQUEZ*/
     }
 }
