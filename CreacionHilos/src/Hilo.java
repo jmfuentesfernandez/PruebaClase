@@ -1,5 +1,7 @@
 import java.util.Random;
 
+//Hecho por FuentesFernandezJM
+
 public class Hilo extends Thread implements Runnable {
     private final String nombre;
     static Random r = new Random();
